@@ -1,0 +1,15 @@
+{
+  "phone_number": [123555,2454535,34553535],
+  "name": "Dharmendra",
+  "email": "trainer@nowhwere.com",
+  "age": "36",
+  "is_admin": "true",
+  "Address": {
+    "Houseno": ["A-234","A-123","A-345"],
+    "street_no": [2,3,4],
+    "city": ["Delhi","Mumbai","Banglore"],
+    "state": ["Delhi","Maharashtra","KArntaka"],
+    "Country": "India"
+  },
+  "Cars": ["MBR","MRC","AUDI"]
+}
